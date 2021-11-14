@@ -1,0 +1,60 @@
+%Chiamata classi e impostazioni fuori documento. 
+
+\documentclass{beamer}
+\usepackage[italian]{babel} 
+\usepackage[latin1]{inputenc} 
+\usepackage[T1]{fontenc}
+
+\title{Esempio di titolo} 
+\author{Nome autore \\ \texttt{riferimento autore}} 
+%\date[VII SINP]{VII Simposio Internazionale sui Numeri Primi} 
+\institute{Nome istituto} 
+%\logo{\includegraphics[width=15mm]{sigillo}}
+
+\usetheme{AnnArbor} 
+\useoutertheme[right]{sidebar} 
+\setbeamercovered{dynamic}
+
+%inizio socumento
+\begin{document}
+
+
+%Prima slide (Copertina)
+	\begin{frame} 
+		\maketitle 
+	\end{frame}
+
+%seconda slide
+	\begin{frame} 
+		\frametitle{Titolo della slide (Frame)} 
+		\tableofcontents 
+	\end{frame}
+
+%Primo frame complesso
+	\section{Esempio di sezione} 
+	\begin{frame} 
+		\frametitle{Tirolo} 
+		\framesubtitle{Sottotitolo} 
+
+%questa parte si potrebbe formattare con le section
+			Prova di scrittura di qualcosa.
+
+	\pause 
+	
+		\begin{enumerate}
+			\item Primo elemento. 
+			\item Secondo elemento.
+			\item Terzo elemento.
+			\qedhere 
+		\end{enumerate} 
+
+\end{frame}
+
+
+
+
+\end{document}
+
+
+
+
