@@ -27,8 +27,8 @@ L’obiettivo è individuare se la struttura corrisponde a:
 # Social Network Analysis Project 
 ## Target  
 The target is analyze the network of sanitaries structures of Ascoli Picieno province that provide psychiatric assistance services.  
-The Bonds, scaled and not oriented, show that linked structures have shared a certain number of patiente (the number is expressed from the weight).  
-The Goal is to determinate if the network agree with :
+The bonds, scaled and not oriented, show that linked structures have shared a certain number of patiente (the number is expressed from the weight).  
+The goal is to determinate if the network agree with :
 * A widespread organization, where there aren't many inequality between nodes centrality.
 * A Centralized organization, where many nodes coordinates the services.
 * A Integrated organizazion, where there are nodes groups that works hard inside them.
