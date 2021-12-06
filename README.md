@@ -17,6 +17,18 @@ Urbino`s University - Applied computer science - Social Network Analysis
 Analizzare la struttura della rete delle strutture sanitarie della provincia di Ascoli Piceno che erogano servizi di assistenza psichiatrica.  
 I legami, pesati e non orientati, indicano che le strutture collegate hanno condiviso un certo numero di pazienti (numero espresso dal peso).  
 L’obiettivo è individuare se la struttura corrisponde a: 
-* 1. un’organizzazione diffusa, in cui esistono poche disparità tra le centralità dei nodi; 
-* 2. centralizzata, con pochi nodi che coordinano la gestione dei servizi; 
-* 3. integrata, composta da gruppi di nodi che collaborano molto al loro interno ma poco all’esterno. 
+* Un’organizzazione diffusa, in cui esistono poche disparità tra le centralità dei nodi. 
+* Centralizzata, con pochi nodi che coordinano la gestione dei servizi.
+* Integrata, composta da gruppi di nodi che collaborano molto al loro interno ma poco all’esterno. 
+
+
+#### In English  
+
+# Social Network Analysis Project 
+## Targhet  
+The targhet is analyze the network of sanitaries structures of Ascoli Picieno province the provide psychiatric assistance services.  
+The Bonds, scaled and not oriented, show thath the linked structures have shared a certain number of patiente (the number is expressed from the weight).  
+The Goal is to determinate if the network agree with :
+* A widespread organization, where there aren't many inequality between nodes centrality.
+* A Centralized organization, where many nodes coordinates the services.
+* A Integrated organizazion, where there are nodes groups that works hard inside them.
