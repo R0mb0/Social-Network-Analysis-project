@@ -3,6 +3,7 @@
 Urbino`s University - Applied computer science - Social Network Analysis 
 
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![Compilation_Test](https://github.com/R0mb0/Social-Network-Analysis-project/actions/workflows/Compilation_Test.yml/badge.svg)](https://github.com/R0mb0/Social-Network-Analysis-project/actions/workflows/Compilation_Test.yml)
  
 <details>
 <summary>In Italian</summary>  
