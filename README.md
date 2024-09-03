@@ -4,6 +4,9 @@ Urbino`s University - Applied computer science - Social Network Analysis
 
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 [![Compilation_Test](https://github.com/R0mb0/Social-Network-Analysis-project/actions/workflows/Compilation_Test.yml/badge.svg)](https://github.com/R0mb0/Social-Network-Analysis-project/actions/workflows/Compilation_Test.yml)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f0951e950b3b41a58fb2b2a149d1c2a8)](https://app.codacy.com/gh/R0mb0/Social-Network-Analysis-project/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
+---
  
 <details>
 <summary>In Italian</summary>  
