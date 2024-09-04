@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite it as below."
+authors:
+- family-names: "Rombaldoni"
+  given-names: "Francesco"
+title: "Social-Network-Analysis-project"
+version: 1.0.0
+date-released: 2024-09-04
+url: "https://github.com/R0mb0/Social-Network-Analysis-project"
