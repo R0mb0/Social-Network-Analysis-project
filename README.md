@@ -40,6 +40,39 @@ The goal is to determinate if the network agree with :
 
 ---
 
+<details>
+ <summary>
+
+## 👉 Click here to read the project report 👈
+  
+ </summary>
+
+![1.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/1.png)
+![2.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/2.png)
+![3.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/3.png)
+![4.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/4.png)
+![5.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/5.png)
+![6.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/6.png)
+![7.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/7.png)
+![8.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/8.png)
+![9.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/9.png)
+![10.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/10.png)
+![11.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/11.png)
+![12.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/12.png)
+![13.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/13.png)
+![14.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/14.png)
+![15.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/15.png)
+![16.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/16.png)
+![17.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/17.png)
+![18.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/18.png)
+![19.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/19.png)
+![20.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/20.png)
+![21.png](https://github.com/R0mb0/Social-Network-Analysis-project/blob/main/ReadmeImgs/21.png)
+ 
+</details>
+
+---
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
